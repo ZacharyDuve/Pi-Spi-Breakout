@@ -1,0 +1,4 @@
+*.gbr
+.DS_Store
+gerbers/
+Pi-Spi-Breakout-backups/
